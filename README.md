@@ -1,0 +1,3 @@
+# produto_agilidade_projetos
+Aprendendo Revisando e aplicando
+Vou relatando por aqui como estou administrando a loucura/vida de trabalhar com tecnologia...
